@@ -1,29 +1,29 @@
 {
   "employee": [
     {
-      "id": 1,
-      "Name": "Pratiksha Singh",
-      "Salary": 400000
-    },
-    {
-      "id": 2,
-      "name": "Rajeev Chopra",
-      "Salary": 500000
-    },
-    {
-      "firstName": "Mark Spencer",
-      "Salary": 200000,
-      "id": 3
-    },
-    {
-      "firstName": "Robert Thomas",
-      "Salary": 700000,
-      "id": 4
-    },
-    {
-      "Name": "Harry Style",
-      "Salary": 400000,
-      "id": 5
-    }
+    "id": 1,
+    "Name": "Pratiksha Singh",
+    "Salary": 400000
+  },
+  {
+    "id": 2,
+    "name": "Rajeev Chopra",
+    "Salary": 500000
+  },
+  {
+    "firstName": "Mark Spencer",
+    "Salary": 200000,
+    "id": 3
+  },
+  {
+    "firstName": "Robert Thomas",
+    "Salary": 700000,
+    "id": 4
+  },
+  {
+    "name": "Luther Thomas",
+    "Salary": 500000,
+    "id": 5
+  }
   ]
 }
